@@ -60,4 +60,30 @@ The performance is not affected.  The 9th grader scores have been canceled but a
 
 ## There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced 
 
-There is not a significant change after the changes in grade
+![School type summary before data clean up](School%20type%20summary%20before%20data%20clean%20up.PNG)
+
+![School type summary after data clean up](School%20type%20summary%20after%20data%20clean%20up.PNG)
+
+For Charter Schools:
+
+    Average Math score is increased by 0.3%
+
+    Agerage Reading score is the same
+
+    % passing math has increased by 0.4%
+
+    % passing reading is increased by 0.41%
+
+    % Overall passing has decreased by 0.43%
+
+For District Schools:
+
+    Average Math score is increased by 0.14%
+
+    Agerage Reading score is increased by 0.03%
+
+    % passing math has increased by 0.45%
+
+    % passing reading is increased by 0.2%
+
+    % Overall passing has decreased by 0.45%
